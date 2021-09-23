@@ -4,9 +4,15 @@
 
 Type true/false in the provided [ ].
 
+
 a) [false] `<div><span>hello</div></span>`
 
 b) [false]
+=======
+a) [  ] `<div><span>hello</div></span>`
+
+b) [ X ]
+
 
 ```html
 <ul>
@@ -18,9 +24,18 @@ c) [false] `<ul></ul><img/><ol><li>one</li></ol>`
 
 ## Q2 - What is a screenreader and why should we care about them?
 
+
 A screen reader is a software application that enables people with severe visual impairments to use a computer. Screen readers work closely with the computer’s Operating System (OS) to provide information about icons, menus, dialogue boxes, files and folders. The device provides access to the entire OS that it works with, including many common applications. We should care about them because when designing a website, we want it to be accessible to everyone.
 
 Source: https://www.nomensa.com/blog/what-screen-reader
+=======
+etc et cet cet 
+
+
+
+
+_Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
+
 
 ## Q3 - For each of the following cases, which tags will be needed?
 
